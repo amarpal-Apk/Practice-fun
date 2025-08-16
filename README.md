@@ -1,2 +1,2 @@
-
-branch1
+added in branch2
+branch2
